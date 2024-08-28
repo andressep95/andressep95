@@ -1,33 +1,46 @@
-<h1 align="center">Hi 👋, I'm Andres Sepulveda</h1>
-<h3 align="center">A Future Backend Developer</h3>
+# ¡Hola! 👋 Soy Andrés Sepúlveda
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressep&label=Profile%20views&color=0e75b6&style=flat" alt="andressep" /> </p>
+## 💻 Desarrollador Backend en Formación
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andressep" alt="andressep" /></a> </p>
+![Profile views](https://komarev.com/ghpvc/?username=andressep&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **CQRSCommerce**
+Soy un apasionado desarrollador backend en constante aprendizaje y crecimiento. Me especializo en crear soluciones robustas y eficientes utilizando una variedad de tecnologías modernas.
 
-- 🌱 I’m currently learning **Architecture in AWS**
+### 🚀 Tecnologías y Herramientas
 
-- 👨‍💻 All of my projects are available at [https://github.com/andressep95](https://github.com/andressep95)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- 📫 How to reach me **Andressep.95@gmail.com**
+### 🔭 Proyectos Actuales
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **CQRSCommerce**: Trabajando en la implementación de CQRS en un sistema de comercio electrónico.
+- **CLI para Generación de Código**: Desarrollando una herramienta de línea de comandos para automatizar la generación de código Java a partir de SQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🌱 Aprendizaje Continuo
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressep&show_icons=true&locale=en&layout=compact" alt="andressep" /></p>
+Actualmente, estoy profundizando mis conocimientos en:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andressep&show_icons=true&locale=en" alt="andressep" /></p>
+- Arquitectura en AWS
+- Patrones de diseño avanzados
+- Optimización de rendimiento en sistemas distribuidos
 
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+### 📫 Contáctame
+
+- Email: Andressep.95@gmail.com
+- GitHub: [github.com/andressep95](https://github.com/andressep95)
+
+### 📊 Estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressep&show_icons=true&theme=radical)
+
+---
+
+¿Interesado en colaborar en proyectos innovadores? ¡No dudes en contactarme!
