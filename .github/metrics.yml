@@ -2,7 +2,7 @@ metrics:
   - name: activity
     parameters:
       user: andressep95
-      limit: 8 # Más compacto
+      limit: 8
       sections: commits, contributions, repositories
       show_icons: true
 
@@ -32,3 +32,21 @@ metrics:
       repositories: SQLift
       limit: 1
       days: 14
+
+  - name: notable
+    parameters:
+      user: andressep95
+      types: commit, pull_request
+      limit: 3
+
+  - name: followup
+    parameters:
+      user: andressep95
+      show_closed: true
+      show_pending: true
+
+  - name: code
+    parameters:
+      user: andressep95
+      languages_details: bytes-size, percentage
+      lines: 12

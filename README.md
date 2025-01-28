@@ -44,6 +44,8 @@ A CLI tool that processes Postgres DDL files to automatically generate JPA entit
 - Custom template engine for code generation
 
 [![GitHub Release](https://img.shields.io/github/v/release/andressep95/SQLift?label=Latest%20Version&style=for-the-badge)](https://github.com/andressep95/SQLift/releases)
+![Latest Release Date](https://img.shields.io/github/release-date/andressep95/SQLift)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/andressep95/SQLift)
 
 ## 🎓 Experience & Education
 - 🏅 GitHub Foundations Certified
@@ -61,7 +63,7 @@ A CLI tool that processes Postgres DDL files to automatically generate JPA entit
 [![Globant Certified](https://img.shields.io/badge/Globant-Internship-00A3E0)](https://www.acreditta.com/credential/93b56d57-812e-41e7-a7cf-6921fe8c5af6)
 
 ## 📊 GitHub Analytics
-![Metrics](https://raw.githubusercontent.com/andressep95/andressep95/main/generated/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/andressep95/andressep95/main/generated/github-metrics.svg)
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Sepúlveda-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andressep)
