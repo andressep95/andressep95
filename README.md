@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Andrés Sepúlveda
-![Profile views](https://komarev.com/ghpvc/?username=andressep&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=andressep95&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 I'm a passionate backend developer focused on building robust and scalable solutions. Currently expanding my expertise in distributed systems and cloud technologies while sharing knowledge through technical mentoring.
@@ -43,7 +43,7 @@ A CLI tool that processes Postgres DDL files to automatically generate JPA entit
 - Docker container support
 - Custom template engine for code generation
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/andressep95/SQLift)
+[![GitHub Release](https://img.shields.io/github/v/release/andressep95/SQLift?label=Latest%20Version&style=for-the-badge)](https://github.com/andressep95/SQLift/releases)
 
 ## 🎓 Experience & Education
 - 🏅 GitHub Foundations Certified
@@ -56,17 +56,16 @@ A CLI tool that processes Postgres DDL files to automatically generate JPA entit
 - Event-Driven System Design
 
 ## 🏅 Certifications
-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) [GitHub Foundations](https://www.credly.com/badges/51456764-28e2-435d-b8f8-0730306d7dbc/linked_in_profile)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) [Java Fullstack Development Bootcamp](https://www.acreditta.com/credential/9395e6f3-6f40-4e02-84cb-a5750d902887)
-- ![Globant](https://img.shields.io/badge/Globant-green?style=flat-square) [Globant Internship](https://www.acreditta.com/credential/93b56d57-812e-41e7-a7cf-6921fe8c5af6)
+[![GitHub Certified](https://img.shields.io/badge/GitHub-Foundations-181717?logo=github)](https://www.credly.com/badges/51456764-28e2-435d-b8f8-0730306d7dbc)
+[![Java Certified](https://img.shields.io/badge/Java-Fullstack-007396?logo=openjdk)](https://www.acreditta.com/credential/9395e6f3-6f40-4e02-84cb-a5750d902887)
+[![Globant Certified](https://img.shields.io/badge/Globant-Internship-00A3E0)](https://www.acreditta.com/credential/93b56d57-812e-41e7-a7cf-6921fe8c5af6)
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=andressep&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressep&layout=compact&theme=radical)
+## 📊 GitHub Analytics
+![Metrics](https://raw.githubusercontent.com/andressep95/andressep95/main/generated/metrics.svg)
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Sepúlveda-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andressep)
-[![Email](https://img.shields.io/badge/Email-Andressep.95@gmail.com-0078D4?style=flat-square&logo=gmail)](mailto:Andressep.95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Sepúlveda-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andressep)
+[![Email](https://img.shields.io/badge/Email-Proposals-0078D4?style=for-the-badge&logo=gmail)](mailto:Andressep.95@gmail.com)
 
 ---
 

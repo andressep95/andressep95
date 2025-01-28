@@ -1,0 +1,34 @@
+metrics:
+  - name: activity
+    parameters:
+      user: andressep95
+      limit: 8 # Más compacto
+      sections: commits, contributions, repositories
+      show_icons: true
+
+  - name: languages
+    parameters:
+      user: andressep95
+      languages: java, go, sql, javascript, dockerfile
+      limit: 5
+      exclude: other
+
+  - name: repositories
+    parameters:
+      user: andressep95
+      featured: SQLift
+      limit: 2
+      description: true
+
+  - name: achievements
+    parameters:
+      user: andressep95
+      display: compact
+      limit: 5
+
+  - name: traffic
+    parameters:
+      user: andressep95
+      repositories: SQLift
+      limit: 1
+      days: 14
