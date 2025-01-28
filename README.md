@@ -62,9 +62,6 @@ A CLI tool that processes Postgres DDL files to automatically generate JPA entit
 [![Java Certified](https://img.shields.io/badge/Java-Fullstack-007396?logo=openjdk)](https://www.acreditta.com/credential/9395e6f3-6f40-4e02-84cb-a5750d902887)
 [![Globant Certified](https://img.shields.io/badge/Globant-Internship-00A3E0)](https://www.acreditta.com/credential/93b56d57-812e-41e7-a7cf-6921fe8c5af6)
 
-## 📊 GitHub Analytics
-![Metrics](https://raw.githubusercontent.com/andressep95/andressep95/main/generated/github-metrics.svg)
-
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Sepúlveda-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andressep)
 [![Email](https://img.shields.io/badge/Email-Proposals-0078D4?style=for-the-badge&logo=gmail)](mailto:Andressep.95@gmail.com)
